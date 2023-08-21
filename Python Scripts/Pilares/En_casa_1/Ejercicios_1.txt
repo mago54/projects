@@ -1,0 +1,27 @@
+Ejercicio 1. (2 puntos) vamos a crear una clase llamada Persona. Sus atributos son: nombre, edad y DNI. Construye los 
+siguientes metodo para la clase
+Un constructor, donde los datos pueden estar vacios
+Los setters y getters para cada uno de los atributos. Hay que validar las entradas de datos
+mostrar: Muestra los datos de la persona
+
+Ejercicio 2. (2 puntos) Crea una clase llamada Cuenta que tendra los siguientes atribulos: titular (que es una persona) y
+cantidad (puede tener decimales). El titular sera obligatorio y la cantidad es opcional. Construye los siguientes metudos
+para la clase
+Un constructor, donde loa datos pueden estar vacios
+Los setters y gettern para cada uno de los atributos. El atributo no se puede modificar directamente, solo ingresando o
+retirando dinero
+mostrar: Muestra los dats de la cuneta
+ingresacantidad: se ingresa una cantidad a la cuenta, si la cantidad introducida es negativa, no se hara nada
+retiracantid: se retira una cantidad a la cuenta. La cueta puede estar en numeros rojos
+
+Ejercicle 3. (2 puntos) Vamos a definir abora una "Cuenta Joven", para ello vamos a crear una nueva clase Cuenta Joven
+oue deriva de la anterior. Cuando se crea esta nueva clase, ademas del titular y la cantidad se debe guardar una
+bonificacion que estara expresada en tanto por ciento. Construye los siguientes metodos para la clase
+Un constructor
+Las setters y getters para el nuervo atributo
+En esta ocasion l0 titulares de este tipo de cuenta tienen que ser mayor de edad, por lo tanto hay que crear un metodo
+esTitularValido() que devuelve vendadero si el titular es mayor de edad pero merior de 25 afos y falso en caso
+contrario
+ademas la retiraada de dinero solo se podra hacer si el titutar es valido
+El metodo mostrar: debe devolver el mensaje de "Cuenta Joven" y la bonificacion de la cuenta
+Pema los metodes heredados de  clase mae que hay que reesb

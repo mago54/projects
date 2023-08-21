@@ -1,0 +1,10 @@
+1. Crea una tupla con los meses del año y muestra los meses de invierno (diciembre, enero y febrero)
+2. Crea una tupla de 10 números y encuentra el número máximo y mínimo.
+3. Crea un diccionario de 5 productos con su precio y encuentra el producto mas caro.
+4. Crea un diccionario con el nombre de 4 estudiantes y su calificación posteriormente calcula el
+promedio de todas las calificaciones.
+*Se debe usar la función sum()
+Ejemplo:
+numeros = [1, 2, 3, 4, 5]
+suma= sum(numeros)
+print(suma) # Salida: 15

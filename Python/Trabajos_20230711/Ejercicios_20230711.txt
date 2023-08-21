@@ -1,0 +1,17 @@
+Problema 1:
+Escribe una función llamada que reciba la base y la altura de un triángulo como parámetros. La función
+debe calcular y devolver el área del triángulo utilizando la fórmula: área = (base * altura)/2. Luego,
+fuera de la función, solicita al usuario ingresar la base y la altura del triángulo y llama a la función para
+obtener el área calculada. Muestra en pantalla el resultado obtenido.
+
+Problema 2:
+Escribe una función llamada que reciba un número como parámetro. La función debe determinar si el
+número es par o impar y devolver True si es par, o False si es impar. Luego, fuera de la función, solicita al
+usuario ingresar un número entero y llama a la función para verificar si el número ingresado es par a
+impar. Muestra en pantalla un mensaje indicando el resultado.
+
+Problema 3:
+Escribe una función que reciba dos listas como parámetros. La función debe concatenar las dos listas y
+devolver la lista resultante. Luego, fuera de la función, solicita al usuario ingresar los elementos de dos
+listas separados por espacios y llama a la función pasando las dos listas ingresadas. Muestra en pantalla
+la lista concatenada obtenida.

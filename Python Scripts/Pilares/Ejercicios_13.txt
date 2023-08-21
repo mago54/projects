@@ -1,0 +1,77 @@
+cQué es el juego del ahorcado?
+ahorcade itamben famade colpadol a an junge de adivin anars de lapir y papel para dos a mis jugadores. n jugador piemst, m ine
+patabra, frmse y oracide y el etie trita dhe adivisar segin le que suglere por letras o dentro de un certo numere de opurtunidades.
+Descripción general
+Usande una fla de pienes, se representa la palsbrey s adivinat, dande el numero de letras, nureros y categoria . ST el jugador adhvador sugiere
+una lets o ninge que aparece en ta palabra, e otre jugador t eserbe en todas we peuicionet comectas , $ a letrz o et nunere swugerido no
+ocae es ta palebrs, el atio jupadar saca un elemento de la fipura de hembre pule shorcado como un marca de contee. tl jurpo temine
+onder
+E jgdor advinader camgista la patatbra, o adivina la palabra completa caractamente
+atr jupador complet e dapane
+Ejemplo de juego
+H upamesenglo de juegs ilutrs a un jugadar tratande de ad lviner la palatra Ahorcado utf ieando una estategie batadta uncarrente mn e
+fecaencia deletna
+Paiabra
+1 Advinar. E
+Letras erradas
+Paabra
+1 Advnar
+Letras eradas:e
+Palabra
+1 1
+Admar
+o
+Letras eradas:e
+Palabra AO_AO
+Adlvhar
+Letras erradas 9
+1 Advinar.
+Paabra
+A_O-AO
+Letras erradas es
+1 Adunar
+Paatra AORA_O
+Letras erradase.s
+Advinar:
+O
+Letras erradas:e
+Palaba: A_O__A_O
+1
+Advinar: S
+Letras erradas: e
+A_0_-AO
+Palabra:
+1
+Adlvinar: R
+Letras erradas: e,s
+Palabra: AORAO
+1
+Adivinar: N
+Letras eradas:es
+Palabra: A_ORAO
+1 Advinar:
+H
+Letras eradas: e,s,n
+Palabra:
+1 Adivinar: D
+AHORAO
+Letras erradas:e.s,n
+L
+Palabra AHORADO
+Adivinar:
+L
+Letras erradas:e.s,n
+Palatra: AHOR_ADO
+Adlvinar: C
+Letras eradas:e.s,n/
+Palabra AHORCADO
+1
+Audlvinar
+Letras erradase,s,nl
+10
+Eladivnador Lana,la epueata
+como dew uhnie
+aOvinador, era ahorcado
+Actividad
+Diveha un programa que nos permta realizar la simulacion del juego del ahorcado en el lenguaje de programación Python
+Puntos para evaluar

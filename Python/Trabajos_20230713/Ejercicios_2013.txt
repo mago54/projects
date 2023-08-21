@@ -1,0 +1,13 @@
+Ejercico 1. (1.5 puntos) Realizar un ejemplo de menu, donde podemos escoger las distintas opciones hasta que
+seleccionamos la opción de "Salir".
+
+Ejercicio 2. (1.5 puntos) Mostrar en pantalla los N primero nimero primos.Se pide por teclado la cantidad de nümeros
+primes que queremos mostrar.
+
+Ejercicio 3. (1.5 puntos) Una persona adquinio un preducto para pagar en 20 meses. ti primer mes pago 10 €, el segundo
+20 €, el tercero 40 €y asi sucesivamente Realitar un algoritmo para determinar cuanto debe pagar mensualmente y el total
+de lo que pago después de las 20 meses.
+
+Ejercicio 4. (1.5 puntes) Crea una aplicación que pida un numero y caicule su factorial (El tactorial de un nümero es el
+producto de todos los enteros entre 1 y el proplo nůmero y se representa por el nómero segulde de un signo de
+exclamacion, Por ejemplo 51 1x2x3x4i6- 120).

@@ -1,0 +1,29 @@
+Ejercicio 1. (2 puntos) vamos a crear una clase llamada Persona. Sus atributos son: nombre, edad y DNI. Construye los 
+siguientes metodo para la clase
+Un constructor, donde los datos pueden estar vacios
+Los setters y getters para cada uno de los atributos, Hay que validar las entradas de datos
+mostrarth. Muestra los datos de la persona
+
+Ejercicio 2. (2 puntos) Cres ana clase Bamads Cuente que tendra los siguientes atributos: titular (que es una personal y
+cantidad (puede tener decimales) El tirular seri obligatorio y la cantidad es opcional Construye (os siguientes métodos
+para la clase
+esMayorbefdad): Devuele un valor lógico indicanda si es mayor de edad
+Un constructor, donde los datos pueden estarvacios
+Los setters y ootters para cada uno de los atributos El atnbute no se puede modificar directamente, solo ingresando e
+retirando dinero
+mostrart) Muestra los datos de la cuenta
+npesrfcantidad) se ingresa una cantidad a la cuenta, s la cantidad introducida es negatha, no se hara nada
+retiraifcantided), se retita una cantidad a la cuenta, La cuerita puede estar en nümeros rojos
+
+Ejercicie 3. (2 puntos) vamos a definir ahora una " Cuenta loveri para ello varas a crearuna nueva date Cuente Joven
+que deriva de la anterot, Cuando se crea esta nueva clase, adem as del titulary la cantidad se debe giardar una
+bonfcacion que etard expresada en tanto por enta Conitruye los sipuientes métodos para la ciase
+Un canstructor.
+Las setters y petters para el nurve atribute
+En esta ocation i0s tituares de eite tipo de centa tienen que ser mayor de edad, por lo tanto hay que crear ain metodo
+E menor de 25 anosy falso en Caso
+Titularvatidol que devuelve verdadero ef titutar 2 mayot de edad
+contrario
+Ademas ta retirada de dinere solo se podra hacer s el ttular es valide
+El metodo mostiarD) debe devolver el mensaje de Cuenta oven" y ia bonificacion de la cirinta
+Pienta fot metodes heredados de la cias
