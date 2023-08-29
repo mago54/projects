@@ -62,6 +62,9 @@ print(P1.get_DNi())
 P1.ingresacantidad(32)
 print(P1.get_cantidad())
 
+P1.retiracantidad(22)
+print(P1.get_cantidad())
+
 P2=Cuenta("",30)
 
 print(P2.get_titular())
